@@ -1,7 +1,7 @@
 import { defaultTheme } from 'vuepress'
 
 export default {
-    lang: 'en-CA',
+    lang: 'en-US',
     title: 'Hello VuePress',
     description: 'Just playing around',
     theme: defaultTheme({
